@@ -6,7 +6,7 @@ import Test from './Components/Test'
 export default class App extends React.Component {
   render() {
     return (
-      <Search/>
+      <Test/>
     )
   }
 }
